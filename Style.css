@@ -12,7 +12,7 @@ body {
 }
 
 h1 {
-  font-family: "Merriweather", serif;
+  font-family: "Open Sans", serif;
   font-size: 32px;
   font color= blue
 }
@@ -23,6 +23,9 @@ img{
   width: 100%;
 }
 
-#Brooklyn{ width: 50%}
+#Brooklyn{ width: 100%}
   
 #Smiley{ width: 10%}
+
+#Kick{width:40%}
+#Character{width:80%}
